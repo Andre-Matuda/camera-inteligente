@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+modelos/*.task
+modelos/*.joblib
+dados/dataset.csv
+esp32/esp32_led_mqtt/secrets.h

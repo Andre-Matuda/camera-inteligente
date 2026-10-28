@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+paho-mqtt>=2.0
+numpy
+pandas
+scikit-learn
+joblib
+matplotlib
+jupyter

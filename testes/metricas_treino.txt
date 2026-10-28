@@ -1,0 +1,19 @@
+Dataset: dataset_sintetico.csv (SINTÉTICO - só teste do pipeline)
+Janelas: 1597 | sessões: 10
+
+              precision    recall  f1-score   support
+
+      normal       0.99      0.86      0.92        88
+  repetitivo       0.99      1.00      0.99        81
+      brusco       0.68      0.61      0.64        79
+golpe_cabeca       0.54      0.68      0.60        72
+
+    accuracy                           0.79       320
+   macro avg       0.80      0.79      0.79       320
+weighted avg       0.81      0.79      0.80       320
+
+Matriz de confusão:
+[[76  0  0 12]
+ [ 0 81  0  0]
+ [ 1  1 48 29]
+ [ 0  0 23 49]]
